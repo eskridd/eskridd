@@ -14,7 +14,7 @@ Developer and researcher exploring technology, consciousness, physics, and unexp
 ## Tech Stack
 
 - **Systems Programming**: C, C++, Rust, Assembly, Python
-- **Web Development**: TypeScript, HTML, Vue
+- **Web Development**: TypeScript, HTML, Vue, CSS, React
 - **Other Languages**: Various tools depending on project needs
 
 ## Tools & Environment

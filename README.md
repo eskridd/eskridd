@@ -9,7 +9,7 @@
 
 ## About
 
-Developer and researcher exploring technology, consciousness, physics, and unexplained phenomena. I build software ranging from serious projects to experimental prototypes, using AI as a tool for organization while maintaining originality in ideas and implementation.
+Developer and researcher exploring technology, consciousness, physics, and unexplained phenomena. I build software ranging from serious projects to experimental prototypes.
 
 ## Tech Stack
 

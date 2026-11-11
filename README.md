@@ -19,7 +19,7 @@ Developer and researcher exploring technology, consciousness, physics, and unexp
 
 ## Tools & Environment
 
-- **OS**: Arch Linux
+- **OS**: Win11
 - **Editors**: Vscodium, Zed
 
 ## Research Interests
